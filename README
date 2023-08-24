@@ -14,7 +14,7 @@ Certifique-se de ter o Docker instalado na sua máquina antes de prosseguir.
 
 1. Clone este repositório para a sua máquina local:
 
-git clone https://github.com/jhonatan-github/imagem-docker-nginx.git
+git clone https://github.com/jhonatan-github/docker-image-nginx.git
 cd imagem-docker-nginx
 Copie seus arquivos estáticos para o diretório projeto.
 
